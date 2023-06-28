@@ -1,0 +1,50 @@
+DSA
+i-  move zeroes to right side of the array
+ii- rotate an array one time without change even indexes
+iii- 3rd highest number from array in single loop
+iv-  Check palindrom in linklist(single link list)
+v-   find middle node in link list in one go(single link list)
+vi-  if you are in middle of node(single link list), so delete that node 
+vii- ///you have to design a class of queue using stacks, how will enqueue/push and dequeue/pop work?
+viii- can I get target sum from an array, in O(n)? If yes, how?
+ix- convert aabbbca to a2b3c1a1 in single loop
+x- //you receive a link list and an integer n, you have to reverse list in chunks of n
+	i.e. 1 2 3 4 5 6 7 and n=3
+	result => 3 2 1 6 5 4 7
+xi- //suppose you have two arrays, find first same/equal integer in single loop
+x-  //return 1 if user input 3, return 3 if user input 1 without using conditional statement
+
+
+OOP
+i- pillars of OOP
+ii- how do you define Abstraction and encapsulation? with real life example
+iii- what is copy const? why do we use & in copy ctr paremeters list?
+iv- memory leakage vs dangling pointer
+v- garbage collector
+vi- do an inplace swap
+vii- types of inheritence
+viii- multiple inheritance is not supported by every language! why? diamond problem?
+ix- why constructor?
+x- static polymorphism and dynamic polymorphism (with overloading and overriding)
+
+
+DB
+i- draw association(ERD) between entities of given scenario
+ii- bridge entity
+iii- 4th max salary? why did you use distinct in query? any other way to find 4th max?
+iv- why indexing? make an index? which column do you prefer for indexing?
+v- join vs subquery
+vi- Join query on 3 tables
+vii- triggers, stored procedures, ACID properties with examples
+
+Analytical
+i- 25 horse problem
+ii- 100 doors problem
+iii- baqi analytical koi bhe poch lete hain
+
+Other (mere se nahi poche baqion se poch rahe thy)
+i- just explain some about BST and MVC (Not coding)
+ii- About your FYP
+iii- Draw schema from any of your resume's project
+iv- GET, POST, DELETE, PUT
+

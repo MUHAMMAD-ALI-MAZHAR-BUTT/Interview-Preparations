@@ -1,0 +1,212 @@
+[11:41 am, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: DB.
+
+What is Indexing.
+Benefit/ drawback of indexing
+Difference between procedure and function
+Write a query to calculate total days of Employement in company for an employee ( difference between the current date and dateOfJoining)
+Truncate vs delete
+Unique key vs primary key
+Can unique key be null
+[11:41 am, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Oop
+
+Implemented copy constructor
+Implemented static and dynamic polymorphism
+Difference between Encapsulation and abstraction
+Real time examples of inheritance, encapsulation, abstraction
+Write a code to store total number of object created of a class
+[11:41 am, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: DSA
+Delete a node as we don't know if it's middle or last node
+Check if the string is anagram
+Do it in big O of n
+
+Last hard question
+We have three buckets all wrong labeled containing different set of balls.
+
+You can select only one bucket and after that chose a ball
+
+Based on this you have to correct all the labels ( mujhy ni aata tha)
+[11:41 am, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Analytical
+1 hi question Kiya or unless I had solved that he didn't allowed me to get up
+
+Question.
+We have a camel.
+We have 2000 kg of wheat.
+We have to travel 1000 km.
+Camel consumes 1Kg / per km distance covered.
+
+Solve it to get the maximum amount of wheat that will be remaining after the distance covered
+[11:53 am, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: 1.Aik sorted array thi kuch elements ki
+Target sum dia hua tha 2 numbers ka ab un numbers ka index return krna tha k kin 2 numbers ka sum hai
+
+2. Sorting of Array having n number of elements.
+
+3. Anagrams ka kuch pocha tha
+
+4. Aik or array thi unsorted uska sum return krna tha 3 numbers ka us mai negative elements bhi thi 
+
+5. Implementation of static and dynamic binding kse krty hain code mai wo krwayi
+
+6. Multiple or multilevel inheritence ka code kese krty hain wo 
+
+7. Polymorphism ki implementation 
+
+8. Composition kia hoti hai.
+
+9.  Oop kia hoti hai
+
+10. Classes or objects
+
+11. Diff bw encapsulation and abstraction
+[0:10 pm, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: PILARS, DIFFERENCE, WHEN TO USE WHICH PILLAR, DIAMOND PROBLEM ETX
+[0:10 pm, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Program mein 2 thy : 1 mein neg positive alg krny thy
+1 mein count btana tha ussi array ka
+[0:10 pm, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Query thi ky 2 tables hain 1 customer ka 1 product ka tu run a query jo bta sky konsy aisy customers hain jinka koi order nahi
+[0:10 pm, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Order ka table tha 1 *
+[0:10 pm, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: 1 analytical tha
+[0:10 pm, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: 2 jugs wala
+[0:10 pm, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: 1 mein 3, 1 mein 5
+[0:10 pm, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Tu 4 litre measure krna
+[0:10 pm, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: With the help of 2 jugs
+[0:10 pm, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Time complexity o(n)
+[0:10 pm, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: OOP:
+Pillars, kahan kahan konsa use hota, abstract class vs interface class, aggravation vs composition, types of inheritance, method overloading vs over riding, polymorphism kion use krty, constructors, types, destructor
+[0:10 pm, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: DBMS
+Diff b/w dbms and rdbms, indexing, records field anx table mein diff, types of keys, humy kaise pta chlta ky konsy table mein foreign key daalni, anomalies and types of anomalies, relationships, normalization, 1nf, 2nf, 3nf, bcnf
+[0:10 pm, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Dsa
+Stack vs queue and inmy sy konsa efficient, aur bhi thy sawal dimag mein nhi aa rhy filhal
+[0:10 pm, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Array vs linked list
+[0:10 pm, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Types of linkedlist
+[0:10 pm, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Linked list mein kis type ka pointer use krty
+[0:10 pm, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Hashmap
+[0:10 pm, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Why is it efficient to be used
+[0:10 pm, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: End py unho ny 2 programs likhwae thy, 1 QUERY, 1 analytical question 2 jugs wala
+[0:10 pm, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Intro, fyp, put vs patch mein diff, jb hum www.daraz.con likhty hain tu backend py kia hota
+[0:10 pm, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Oop ky pilars
+[0:10 pm, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Define
+[0:10 pm, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Konsa kb use hota
+[0:10 pm, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Diamond problem
+[0:10 pm, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Aggregation vs composition
+[0:10 pm, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Access modifiers
+[0:10 pm, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: 1 QUERY thi usmy multiple joins lgny thy
+[0:10 pm, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Many to many ka relation tha
+[0:10 pm, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Types of joins suny, oop advantages vs disadvantages
+[0:10 pm, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Student ka table banao
+[0:10 pm, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: 1 course ka
+[0:10 pm, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Konsa relation
+[0:10 pm, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Phr many to many mein 1 aur tble bnta
+[0:10 pm, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Triggers ka poucha
+[0:10 pm, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Indexing kion use krty
+[0:10 pm, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Ky student ka naam select kro jo oop prh raha
+[0:10 pm, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Ab ismy 3 joins lg rhy thy
+[0:10 pm, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Bcz of many to many
+[0:10 pm, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Wohi stack queue mein diff
+[0:10 pm, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Virtual pure virtual mein diff
+[0:10 pm, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Abstract vs interface
+[6:04 pm, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Phir ek or project tha 
+Us main MVC architecture ka pucha
+Phir MVVM architecture ka pucha
+[6:04 pm, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Phir kehta ye Jo meeting room hai us ko oop k 4 principles se explain kro
+[6:04 pm, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Phir polymorphism ki types
+[6:04 pm, 23/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Given k, find kth highest element in linked list
+[2:42 pm, 24/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Walikum asalam 
+
+Linked list middle find krna
+Linked list se koi element delete krna jiska head node hame pata na ho
+
+Binary search implement krna ascending or descending order
+
+N×N ke elements ko spiral form mei print krna
+
+Agar user 1 input kre tou 2 print ho aur 2 print kare tou 1
+
+Greedy algorithm kia hote
+
+3rd highest salary of employee
+
+3 tables mei joins
+
+Indexes kaise banate
+
+Erd diagram of fb
+
+Subquery ka ek swal tha
+[2:42 pm, 24/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Anaylitcal
+Swimming pool wale the 2
+[2:42 pm, 24/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Ek Square wala tha yaad nhi araha
+[2:42 pm, 24/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: subquery ma kia krna tha?
+[2:42 pm, 24/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Uski example query likhni thi
+[2:42 pm, 24/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Pehle poocha ke hota kia
+[2:42 pm, 24/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Studnt
+Course
+Teacher ke table dia tha as example
+[2:42 pm, 24/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Tou joins lagaka kar query likhni thi
+[2:42 pm, 24/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Ke konsa student konsa course prta kis teacher se
+[2:42 pm, 24/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Is tra ka
+[2:42 pm, 24/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: اَلسَلامُ عَلَيْكُم وَرَحْمَةُ اَللهِ وَبَرَكاتُهُ‎!
+
+DEVSINC
+
+Pillars of OOP, Types of Inheritance, Diamond problem, function/Operator Over loading, Get/Set methods, function Over-riding, Class, Object, Instructors + Types, Destructors,
+Private, protected, Public
+
+یعنی کل ملا کے OOP میں جتنے بھی CONCEPTS پڑھے ہیں ہم نے یا ہو سکتے ہیں.
+وہ سب ہی سنے پوری کتاب یعنی کہ
+[2:42 pm, 24/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: DB
+
+Types of Relations, Normalization + Types, Anamolies, Keys, Joins, etc
+
+یعنی اس میں بھی جتنے بھی CONCEPTS ہوتے ہیں نا، وہ سب ہی پوچھے ہیں
+[2:42 pm, 24/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: اگر دو ٹیبل ہوں اور ان میں پرائمری key پڑی ہو تو Foreign کیسے بناتے ہیں.؟
+[2:42 pm, 24/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Queries:
+Customer Table, Order Tables....
+Return Name of those customers, who have zero Order.....
+[2:42 pm, 24/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Return Orders with name Asif:// Through Self join
+[2:42 pm, 24/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Problem:
+O(n) Conplexity,
+Arrange the negative numbers on one side and positive on other
+[2:42 pm, 24/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: DHives
+
+There are repeated salaries, give the maximum salary of a person, with query
+
+2. Reverse a linked list
+
+3. BST Traversal
+[2:56 pm, 24/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Http
+Get put wagira
+[2:56 pm, 24/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Req response
+[2:56 pm, 24/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Status codes kia hote
+[2:56 pm, 24/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Middleware
+[2:56 pm, 24/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Application server kia hota
+[2:57 pm, 24/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Anaylitcal
+Swimming pool wale the 2
+[2:57 pm, 24/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Ek Square wala tha yaad nhi araha
+[2:57 pm, 24/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Phir jug wala tha 5 aur 3 litre wala jug
+[2:57 pm, 24/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: subquery ma kia krna tha?
+[2:57 pm, 24/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Uski example query likhni thi
+[2:57 pm, 24/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Pehle poocha ke hota kia
+[2:57 pm, 24/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Studnt
+Course
+Teacher ke table dia tha as example
+[2:57 pm, 24/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Tou joins lagaka kar query likhni thi
+[2:57 pm, 24/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Ke konsa student konsa course prta kis teacher se
+[2:57 pm, 24/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Erd diagram of fb ma kia uery di thi?
+[2:57 pm, 24/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: User
+Post
+Share comment
+[2:57 pm, 24/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Is tra
+[2:57 pm, 24/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: User ke friend
+[2:57 pm, 24/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Http
+Get put wagira
+[2:57 pm, 24/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Req response
+[2:57 pm, 24/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Status codes kia hote
+[2:57 pm, 24/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Middleware
+[2:57 pm, 24/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Application server kia hota
+[3:01 pm, 24/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Array mei kuch elements hain unordered per 3 type ke hi asakte
+[3:01 pm, 24/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: 0 1 aur 2
+[3:01 pm, 24/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: For ex 
+2 0 1 1 0 1 2 2 0
+[3:01 pm, 24/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Isko n times mei sort krna
+[3:48 pm, 24/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: print elements diagonally
+[3:28 pm, 25/06/2023] 🦹🏻‍♂️🦹🏻‍♂️~M.A.M.B~🧛‍♂️🧛‍♂️: Hash Map
+اور اسکا ایک پرابلم ہے،
+Maximum iterated index of an Array

@@ -1,0 +1,118 @@
+40 techical question 26 iq questions 24 EQ questions.
+Questions i was asked in Devsinc's interview:
+
+introduction:
+- how are you?
+- introduce yourself.
+
+then he made three columns on a page with titles: OOP, DS, DB, AP (analytical problem solving,) and asked me to rate myself out of 10.
+
+
+OOP:
+- four pillars of OOP?
+- difference between encapsulation and abstraction.
+- types of inheritance.
+- diamond problem.
+- solution of diamond problem.
+- polymorphism.
+- difference between method overloading and method overriding.
+- parameterized constructor.
+- can we call a class's function without an instance of it?
+- abstract class.
+- static class.
+- static methods.
+- class methods.
+- instance methods.
+
+DS:
+- difference between stack and queue.
+- state the better one.
+- types of data structures.
+- difference between array and linked list.
+- tradeoffs of array.
+- tradeoffs of linked list.
+- complexity of a binary tree.
+- sort negative numbers on one side of a linked list and the others on the other side with the time-complexity of o O(n).
+- find mode (most repeated number) from an unsorted linked list with the time complexity of O(n).
+
+DB:
+- what is a db?
+- he drew a table and encircled the titles of the columns and asked what it is? (attributes)
+- then he encircled an entire column and asked what is it? (a column)
+- primary key.
+- secondary key.
+- foreign key.
+- composite key.
+- where goes a primary key when there is a many-to-many relationship.
+- indexes.
+- transaction.
+- ACID properties.
+- mutex lock
+- write a query for employees who's name starts with A and have highest salary.
+- write a query for the third employee from the employees who's name starts with A and have highest salary.
+
+
+AP:
+- there are 9 snooker balls, each of the same size and the same weight except for the one, it's heavier than others. you have a sea-saw to weigh them.
+ tell the minimum number of times you'd use the sea-saw to find the heavier one. also explain your logic.
+
+- there is square pool. each of its corners has a tree in it. you have to double the area of the pool without cutting the trees, getting them in the pool,
+ and changing the place and the shape of the pool. (pool should always be a square)
+
+- there is a point A. there are 3k bananas and a camel that can carry 1k bananas at a time. there is a distance of 1k kilometers from point A to point B. 
+the camel eats a banana after traveling a kilometer. design a way in which the maximum number of bananas can be delivered at point B.
+
+
+Further Some : 
+
+- Difference between Polymorphism and encapsulation
+- Difference between abstract class and interface
+- Difference between shallow copy and deep copy
+- Difference between assignment operator and copy constructor
+- Key difference between inheritance and associations with examples
+- Types of polymorphism
+- Find 3rd highest salary from employees table
+- Function jis mein 100 de to 101 aa jay. 101 aay to 100 aa jaay
+- Unsorted array mein se most repeating value aur usky index print kraany.
+
+ - Customer aur product ka many to many ka relationship hai. Phly schema bnana hai aur primary aur foreign keys btaani hain k kia bneingi
+Then query likhni hai k wo saary customers aa jain jinkin2 ya 2 se ziaada products hain
+
+
+Etc. These are the questions they asked me or some people. I provided that just so u people can get idea from That ky Devsinc kis type ky Questions zayda 
+pochta hai mostly.
+Other mostly asked Questions:
+1. string to camel case
+2. 2nd highest number in array (two loops) (n2) (single loop)
+3. Code to count the number of occurrence of each digit in array.
+4. Code to check either number is even or odd without using conditional statement or print 7 if user input 8 and print 8 when user input 7 without using conditional statement.
+5. Code to find the first missing number in a array. like {-1,-3,0,1,4,6} => Output : 2
+5. Some usage and applications kind of question of all 4 pillars./ some basic concepts.
+6. How to create an Object of class when Constructor is private?
+7. Why we use Views?
+8. Why sometimes developers need to de-normalize database after Normalization.
+9. Ek array mai se integers k pairs return krne jinka sum x k equal ho
+10. BST ... traversing and distance finding between two nodes...
+11. Find the sub array from an integer array whose sum=6
+12. Pop the node from linked list which is equal to given node without knowing the head node
+13. Validate the bracket from an expression... Like (a+b) is valid, (a+b)) is invalid
+14. Bring the all the 0's from an array to left side of array
+15. What's Polymorphism? What's Function overload overriding?
+16. Acid properties
+17. Palindrom linklist
+18. Reverse the link list
+19. Middle link list
+20. Abstraction vs encapsulate
+21. composition
+22. aggregation
+23. stack using queue
+24. non repeating character in string
+25. queue to stack
+26. triggers
+27. Linked list me se duplicates remove krne
+28. Array reverse krni is trah
+29. Agr input ye ho 1,2,3,4,5,6 To agr "k" 3 hai to output ye hogi 3,2,1,6,5,4
+30. Max subarray problem
+31. Ek circular linked list ki problem thi
+32. Ek me zeros shift krne the
+33. linked list ka middle find krna https://www.geeksforgeeks.org/write-a-c-function-to-print-the-middle-of-the-linked-list/
